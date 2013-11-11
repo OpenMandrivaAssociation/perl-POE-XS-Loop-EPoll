@@ -1,2 +1,4 @@
+removed_sources:
+  POE-XS-Loop-EPoll-1.001.tar.gz: f9867cef916d9ca7c0a319acfd3725b200a34237
 sources:
-  "POE-XS-Loop-EPoll-1.001.tar.gz": f9867cef916d9ca7c0a319acfd3725b200a34237
+  POE-XS-Loop-EPoll-1.003.tar.gz: d4eaed741c7444aae421775558fd798d61d28911
