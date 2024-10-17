@@ -8,7 +8,7 @@ Release:	3
 Summary:    An XS implementation of POE::Loop, using Linux` epoll(2)
 License:    GPL+ or Artistic
 Group:      Development/Perl
-Url:        http://search.cpan.org/dist/%{upstream_name}
+Url:        https://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/POE/POE-XS-Loop-EPoll-%{upstream_version}.tar.gz
 
 BuildRequires: perl(POE)
